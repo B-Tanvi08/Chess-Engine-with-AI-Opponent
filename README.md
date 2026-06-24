@@ -1,4 +1,4 @@
-# Chess Enigma
+# Chess Engine with AI opponent
 
 Chess Enigma is a Python-based chess game that combines an interactive graphical interface with a simple AI opponent. The AI leverages the minimax algorithm with alpha-beta pruning and evaluates moves using both material balance and piece-square tables to determine optimal strategies.
 
